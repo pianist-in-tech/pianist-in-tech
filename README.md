@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Larisa!
 
-<!--
-**pianist-in-tech/pianist-in-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎶 About Me:
+- 👩‍🏫 Classical pianist pivoted into tech! 🎹→💻
+- 💻 Graduate of Springboard's Software Engineering Track.
+- 🎓 Bachelor's Degree in Music.
 
-Here are some ideas to get you started:
+### 💼 Currently working on:
+- 🚀 Looking for opportunities as a junior software engineer.
+- 💻 Creating my personal profile in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies I Use:
+- Languages: JavaScript, Python, HTML, CSS, SQL
+- Frameworks: Flask, React, Express, Node.js, and Jest, Jasmine, Bootstrap, DOM manipulation, Django
+- Tools: PostgreSQL, MySQL, Git, GitHub, REST APIs, AJAX, OOP principles 
+
+### 📫 How to Reach Me:
+- Email: pianistintech@gmail.com
+- LinkedIn: https://www.linkedin.com/in/larisa-capatina
+
+### ⚡ Fun fact:
+I love combining music with technology to create interactive experiences!
+
