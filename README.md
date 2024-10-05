@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Larisa!
 
 ### 🎶 About Me:
-- 👩‍🏫 Classical pianist pivoted into tech! 🎹→💻
+- 👩‍🏫 Classical Pianist Turned Software Engineer! 🎹→💻
 - 💻 Graduate of Springboard's Software Engineering Track.
 - 🎓 Bachelor's Degree in Music.
 
